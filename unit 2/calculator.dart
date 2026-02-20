@@ -11,7 +11,7 @@ void main(){
   
   double result;
   
-  switch (operator) {
+  switch (operator) { 
     case '+':
       result = num1 + num2;
       break;
